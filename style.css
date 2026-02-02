@@ -1,0 +1,21 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.headerpart{
+    text-align: center;
+}
+#headerpara{
+    font-size:20px;
+}
+h2{
+    text-decoration: dotted underline;
+}
+img{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 540px;
+}
+p{
+    text-align: center;
+}
