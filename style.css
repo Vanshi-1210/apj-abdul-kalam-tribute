@@ -5,17 +5,19 @@
     text-align: center;
 }
 #headerpara{
-    font-size:20px;
-}
-h2{
-    text-decoration: dotted underline;
+    font-size:x-large;
 }
 img{
     height: 300px;
     width: 300px;
     position: relative;
-    left: 540px;
+    left: 600px;
 }
-p{
+.imgcontent{
+     padding-left: 540px;
+     font-size: x-large;
+}
+.about{
     text-align: center;
+    text-decoration: underline;
 }
