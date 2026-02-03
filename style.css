@@ -16,8 +16,14 @@ img{
 .imgcontent{
      padding-left: 540px;
      font-size: x-large;
+     text-decoration: underline;
 }
-.about{
-    text-align: center;
-    text-decoration: underline;
+.unorderedlist{
+    font-size: large;
+}
+.orderedlist{
+    font-size: large;
+}
+.books{
+    font-size: large;
 }
