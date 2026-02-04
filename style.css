@@ -28,4 +28,9 @@ img{
 .books{
     font-size: large;
 }
-
+h3{
+    text-decoration: underline;
+}
+input{
+    font-size: larger;
+}
